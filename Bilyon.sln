@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "BilYon", "Bilyon\BilYon.vbproj", "{C333F157-DCD3-4C52-8E95-5FDE5367A1AE}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BilCon", "BilCon\BilCon.vbproj", "{532C4507-7F5C-4BFB-8B2A-69DB764A25B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C333F157-DCD3-4C52-8E95-5FDE5367A1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C333F157-DCD3-4C52-8E95-5FDE5367A1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C333F157-DCD3-4C52-8E95-5FDE5367A1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C333F157-DCD3-4C52-8E95-5FDE5367A1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532C4507-7F5C-4BFB-8B2A-69DB764A25B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532C4507-7F5C-4BFB-8B2A-69DB764A25B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532C4507-7F5C-4BFB-8B2A-69DB764A25B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532C4507-7F5C-4BFB-8B2A-69DB764A25B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7872996A-EE94-4A0B-8736-D511A0E15CD9}
+	EndGlobalSection
+EndGlobal
